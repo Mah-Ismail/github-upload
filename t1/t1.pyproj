@@ -24,6 +24,7 @@
     <Compile Include="t1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="koko1.exe" />
     <Content Include="koko2.exe" />
   </ItemGroup>
